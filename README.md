@@ -31,7 +31,8 @@ print("{:.2f}".format(distance))
   
 ### OUTPUT:
 
-![1c](https://user-images.githubusercontent.com/119477784/226183004-00634901-8301-43b3-bd14-8e9019d9b296.png)
+![1c python2](https://user-images.githubusercontent.com/119477784/228271735-4e6faf49-755e-44b6-a61e-0c6a1bdd7a05.png)
+
 
 ### RESULT:
 
